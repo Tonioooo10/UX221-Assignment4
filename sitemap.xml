@@ -27,6 +27,36 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/i-am-the-danger-tshirt/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/cookin-up-white-tshirt/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/a-lab-insane-red-tshirt/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/one-who-knocks-graphic-tee/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/the-chicken-brothers-blue-tshirt/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
