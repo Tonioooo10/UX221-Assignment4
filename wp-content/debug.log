@@ -49,3 +49,10 @@
 [17-Mar-2026 00:01:22 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment3/.wordpress/wp-includes/widgets/class-wp-widget-media.php on line 434
 [17-Mar-2026 00:01:33 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment3/.wordpress/wp-includes/widgets/class-wp-widget-media.php on line 434
 [17-Mar-2026 00:02:03 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment3/.wordpress/wp-includes/widgets/class-wp-widget-media.php on line 434
+[07-Apr-2026 22:46:25 UTC] PHP Fatal error:  Out of memory (allocated 41943040 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment4/.wordpress/wp-includes/pluggable.php on line 1818
+[07-Apr-2026 22:46:55 UTC] PHP Fatal error:  Out of memory (allocated 35651584 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment4/.wordpress/wp-includes/pluggable.php on line 444
+[07-Apr-2026 22:46:58 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment4/.wordpress/wp-includes/pluggable.php on line 350
+[07-Apr-2026 22:46:59 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment4/.wordpress/wp-includes/pluggable.php on line 125
+[07-Apr-2026 22:47:00 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment4/.wordpress/wp-includes/widgets/class-wp-widget-media.php on line 435
+[07-Apr-2026 22:47:02 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment4/.wordpress/wp-includes/widgets/class-wp-widget-media.php on line 435
+[07-Apr-2026 22:47:03 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment4/.wordpress/wp-includes/widgets/class-wp-widget-media.php on line 434
