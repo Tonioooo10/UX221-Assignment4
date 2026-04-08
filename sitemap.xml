@@ -12,6 +12,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/jesse-pinkman/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/jane-margolis/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/gustavo-fring/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
